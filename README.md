@@ -71,3 +71,4 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
+[![ForTheBadge winter-is-coming](https://forthebadge.com/images/badges/built-by-developers.svg)](http://ForTheBadge.com)
