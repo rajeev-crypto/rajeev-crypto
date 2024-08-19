@@ -1,4 +1,4 @@
-<h1>Hey there, I'm <a  href="https://github.com/samir321-pixel">Rajeev Singh Kushwaha</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to see you.</h1>
+<h1>Hey there, I'm <a  href="https://github.com/samir321-pixel">Rajeev Kushwaha</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to see you.</h1>
 
 <h2>Backend developer from India. ❤️ </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
